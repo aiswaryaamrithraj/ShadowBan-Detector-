@@ -1,5 +1,5 @@
 # ShadowBan-Detector-
-# One of my internship assignment - AI-Powered Social Media Visibility Tool ShadowBan Detector: AI-Powered Social Media Visibility Tool 🕵️‍♀️
+# One of my internship assignment - ShadowBan Detector: AI-Powered Social Media Visibility Tool 🕵️‍♀️
 
 An automated tool to help social media users and creators identify and analyze potential "shadowbans" by monitoring account visibility and engagement metrics. This project uses natural language processing (NLP) and machine learning to detect anomalies and provide actionable insights through a user-friendly dashboard.
 
